@@ -1,6 +1,6 @@
 Introduction
 ============
-a portlet for rendering flash movice
-R3.0
-1 cancel brain.getObject()
+a portlet for rendering flash movice.
+the flash movice may be qulified absolution path swf file,or query collection.
+
 
